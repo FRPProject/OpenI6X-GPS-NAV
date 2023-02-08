@@ -5,7 +5,7 @@ A simple UAV GPS locator indicating where your plane/quad is located compared to
 This helps if you lose orientation. 
 
 # Installation: 
-## Use already compiled version
+## Use Already Compiled Versions (.hex)
 https://github.com/FRPProject/OpenI6X-GPS-NAV/releases/tag/OpenI6X-V1.9.0
 
 ## Compile Yourself
