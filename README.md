@@ -20,7 +20,7 @@ It must be added when compiling the OpenI6X port. More on this in the root repos
 ** This code is created for the "Hello World" tool implemented by [OpenI6X](https://github.com/OpenI6X/opentx) lead programmer for the Flysky-I6x.
 
 # How it works:
-Press OK-> centers the HOME position
+Press OK-> centers the HOME position to the current UAV location 
 <br>
 Up/down key-> changes the plot x/y directions 
 <p><image src='./image/image.png' width='280px'>
