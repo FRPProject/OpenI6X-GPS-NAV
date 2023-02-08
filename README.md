@@ -9,7 +9,7 @@ This helps if you lose orientation.
 https://github.com/FRPProject/OpenI6X-GPS-NAV/releases/tag/OpenI6X-V1.9.0
 
 ## Compile Yourself
-Copy the code into your dipository where "hello.cpp" is located:<br>
+Copy the code located here: "./Release/GPS X-NAV.cpp" into your dipository where "hello.cpp" is located:<br>
 <font color=yellow> 
 ```sh 
 ".\radio\src\targets\flysky\tools\hello.cpp" 
