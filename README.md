@@ -18,7 +18,7 @@ Copy the code located here: "./Release/GPS X-NAV.cpp" into your repository where
 <p>
 It must be added when compiling the OpenI6X port. More on this in the root repository.
 <br>
-**This code is a for the "Hello World" tool created by [OpenI6X](https://github.com/OpenI6X/opentx) lead programmer for the Flysky-I6x.
+** This code is created for the "Hello World" tool implemented by [OpenI6X](https://github.com/OpenI6X/opentx) lead programmer for the Flysky-I6x.
 
 # How it works:
 Press OK-> centers the HOME position
